@@ -1,0 +1,39 @@
+# 数据集文件（如果太大可以忽略某些文件）
+# *.png
+# *.jpg
+# *.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 模型权重（如果有）
+*.pth
+*.pkl
+*.h5
