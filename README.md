@@ -84,19 +84,6 @@ The complete dataset will be made publicly available upon paper publication. For
 
 - **Corresponding Author**: Guoxiong Zhou (zhougx01@163.com)
 
-## Citation
-
-If you use the RT-Set dataset in your research, please cite the following paper:
-
-```bibtex
-@article{zeng2024deep,
-  title={Deep Learning-Based Rubber Tree Crown Segmentation from UAV Imagery},
-  author={Zeng, Jiangquan and Lv, Mingjie and Zhou, Guoxiong and Wang, Xiangjun and Zhang, Huaiqing and Liu, Exian},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024},
-  publisher={IEEE}
-}
-```
 
 ## License
 
